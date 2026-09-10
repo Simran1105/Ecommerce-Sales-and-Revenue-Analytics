@@ -35,14 +35,5 @@ It includes dashboards for executive overview, sales trends, product performance
 2. Open it in **Power BI Desktop**.  
 3. Refresh data connections if needed.  
 
-## 📸 Dashboard Previews
-*(Add your screenshots here)*  
-![Executive Overview](images/executive_overview.png)  
-![Sales & Time Analysis](images/sales_time_analysis.png)  
-![Product & Customer](images/product_customer.png)  
-![Geography & Operations](images/geography_operations.png)
-
-## 👤 Author
-Simran
 
 
