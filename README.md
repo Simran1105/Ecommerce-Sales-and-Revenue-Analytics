@@ -6,7 +6,6 @@ It includes dashboards for executive overview, sales trends, product performance
 
 ## 🧰 Tools Used
 - **Power BI** – Dashboard creation and data visualization  
-- **Excel / SQL** – Data cleaning and transformation  
 - **DAX** – KPI calculations and measures  
 
 ## 📈 Dashboard Sections
@@ -44,7 +43,6 @@ It includes dashboards for executive overview, sales trends, product performance
 ![Geography & Operations](images/geography_operations.png)
 
 ## 👤 Author
-**Your Name**  
-Data Analyst | Power BI Developer  
-📧 your.email@example.com  
+Simran
+
 
